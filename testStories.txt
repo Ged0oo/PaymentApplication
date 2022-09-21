@@ -1,0 +1,44 @@
+Transaction Approved :
+Name Mohamed Nagy Mabrock Abd
+EXP 12/23
+PAN 5892289790525156557
+Maximum Amount 5000
+Account Balance 2144.000000 
+Amount 200
+=====================================================================================
+Exceeed the maximum amount :
+Name Mohamed Nagy Mabrock Abd
+EXP 12/23
+PAN 3399561810273993388
+Maximum Amount 5000
+Account Balance 192.000000 
+Amount 20000
+=====================================================================================
+Insufficient fund :
+Name Mohamed Nagy Mabrock Abd
+EXP 12/23
+PAN 5781482207689906006
+Maximum Amount 5000
+Account Balance 130.000000 
+Amount 200
+=====================================================================================
+Expired card :
+Name Mohamed Nagy Mabrock Abd
+EXP 12/20
+PAN 6665078994803810105
+Maximum Amount 5000
+Account Balance 939.000000 
+Amount 200
+=====================================================================================
+Invalid card
+Name Mohamed Nagy Mabrock Abd
+EXP 12/20
+PAN 6665071864803810105
+
+
+=====================================================================================
+Blocked card :
+Name Mohamed Nagy Mabrock Abd
+EXP 12/23
+PAN 8289086587906204268
+=====================================================================================
