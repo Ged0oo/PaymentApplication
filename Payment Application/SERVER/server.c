@@ -11,7 +11,7 @@ Instead of a global array create a text file "Transactions DB.txt" where you wil
 */
 
 
-
+ 
 void getDataBaseAcounts(void)
 {
 	FILE* ptr;
