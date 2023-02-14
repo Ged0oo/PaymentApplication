@@ -30,7 +30,7 @@ typedef enum EN_serverError_t
 }EN_serverError_t;
 
 
-typedef struct ST_transaction_t
+typedef struct ST_transaction_t 
 {
 	ST_cardData_t cardHolderData;
 	ST_terminalData_t terminalData;
