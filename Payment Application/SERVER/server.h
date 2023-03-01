@@ -9,7 +9,7 @@
 
 
 /* ---------- SECTION DATATYPE DECLARATION ---------- */
-
+ 
 typedef enum EN_transState_t
 {
 	APPROVED,
