@@ -2,7 +2,7 @@
 #define SERVER_H_INCLUDED
 
 /* ---------- SECTION INCLUDES ---------- */
-
+ 
 #include "../TERMINAL/terminal.h"
 #include "../CARD/card.h"
 #include "../APPLICATION/std_types.h"
