@@ -35,8 +35,8 @@ typedef enum EN_cardState_t
 
 /* ---------- SECTION FUNCTIONS PROTOTYPES ---------- */
 EN_cardError_t getCardExpiryDate(ST_cardData_t* cardData);
-EN_cardError_t getCardPAN(ST_cardData_t* cardData);
 EN_cardError_t getCardHolderName(ST_cardData_t* cardData);
+EN_cardError_t getCardPAN(ST_cardData_t* cardData);
 int LuhnNumberChecker(uint8_t* cardPan);
 uint8_t* LuhnNumberGenerator();
 
