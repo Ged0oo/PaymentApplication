@@ -48,7 +48,6 @@ void getDataBaseAcounts(void)
 }
 
 
-
 void updateDataBaseAcounts(void)
 {
 	FILE* ptr;
