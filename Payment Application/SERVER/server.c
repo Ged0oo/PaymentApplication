@@ -1,4 +1,4 @@
-#include "server.h"
+لا#include "server.h"
 
 uint8_t index = -1;
 ST_accountsDB_t DataBaseAcounts[255];
@@ -9,7 +9,6 @@ ST_accountsDB_t DataBaseAcounts[255];
 Instead of a global array create a text file "Transactions DB.txt" where you will save all transactions and read if you need
  
 */
-
 
  
 void getDataBaseAcounts(void)
