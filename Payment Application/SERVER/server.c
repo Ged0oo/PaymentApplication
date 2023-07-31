@@ -131,7 +131,6 @@ EN_serverError_t isValidAccount(ST_cardData_t* cardData)
 
 
 
-
 /*
 
 This function will take all transaction data into the transactions database.
